@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StartGame
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ Start()
+comment5.params=User2
+comment5.target=void\ Roof(Assassins)
+comment6.params=User2
+comment6.target=void\ Entrance(Assassins)
+comment7.params=User2
+comment7.target=void\ Lobby(Assassins)
+numComments=8

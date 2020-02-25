@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Assassins
+comment1.params=hp\ dmg\ acc\ spcl\ strg\ evade
+comment1.target=Assassins(double,\ double,\ double,\ double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Assassins\r\n
+comment2.params=
+comment2.target=void\ printStorage()
+comment3.params=healthpack\ bomb
+comment3.target=void\ setCapacity(int,\ int)
+comment4.params=
+comment4.target=double\ getMaxCapacity()
+comment5.params=
+comment5.target=double\ getCapacity()
+comment6.params=
+comment6.target=double\ getEvadeChance()
+comment7.params=
+comment7.target=int\ getHealthPack()
+comment8.params=
+comment8.target=int\ getSmokeBomb()
+numComments=9

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GUI_project
+comment1.params=warrior\ tech\ silent\ ACRtxt\ vsble
+comment1.target=GUI_project(Assassins,\ Assassins,\ Assassins,\ java.lang.String,\ boolean)
+comment10.params=
+comment10.target=void\ generateMenu()
+comment2.params=e
+comment2.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment3.params=e
+comment3.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment4.params=e
+comment4.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment5.params=e
+comment5.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment6.params=e
+comment6.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment7.params=e
+comment7.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.params=evt
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=g
+comment9.target=void\ paintComponent(java.awt.Graphics)
+numComments=11

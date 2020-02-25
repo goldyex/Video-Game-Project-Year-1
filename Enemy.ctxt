@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=hp\ dmg\ acc\ spcl
+comment1.target=Enemy(double,\ double,\ double,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Enemy\r\n
+comment2.params=
+comment2.target=void\ specialAttack()
+comment3.params=
+comment3.target=int\ getHeadshot()
+numComments=4

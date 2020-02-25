@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Silent
+comment1.params=
+comment1.target=Silent()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Silent\r\n
+comment2.params=hp\ dmg\ acc\ spcl\ storage\ evadechance
+comment2.target=Silent(double,\ double,\ double,\ double,\ double,\ double)
+comment2.text=\r\n\ Imported\ data\ file\ Constructor\ for\ objects\ of\ class\ Silent\r\n
+numComments=3

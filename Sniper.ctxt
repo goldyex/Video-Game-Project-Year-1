@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Sniper
+comment1.params=
+comment1.target=Sniper()
+comment2.params=
+comment2.target=void\ specialAttack()
+comment2.text=public\ int\ getHeadshot()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ //\ damage\ +200\ if\ 20%\ chance\ hit\r\n\ \ \ \ \ \ \ \ int\ GotorNot\=0;\r\n\ \ \ \ \ \ \ \ Random\ rand\ \=\ new\ Random();\r\n\ \ \ \ \ \ \ \ int\ checkTemp\=rand.nextInt(100)\ +\ 1;\r\n\ \ \ \ \ \ \ \ if\ (checkTemp<\=20){GotorNot\=1;}\r\n\ \ \ \ \ \ \ \ return\ GotorNot;\r\n}
+numComments=3

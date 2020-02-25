@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Boss
+comment1.params=hp\ dmg\ acc\ spcl\ chance
+comment1.target=Boss(double,\ double,\ double,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Boss\r\n
+comment2.params=
+comment2.target=void\ specialAttack()
+comment3.params=
+comment3.target=void\ getName()
+comment4.params=
+comment4.target=int\ getHeadshot()
+numComments=5
